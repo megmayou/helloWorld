@@ -1,2 +1,2 @@
 # helloWorld
-My first project with on github with Wild Code School
+My first project on github with Wild Code School
